@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  (https://your-solution-url.com)
+- Solution URL:  (https://www.frontendmentor.io/solutions/3column-preview-card-component-EKbfkEPwns)
 - Live Site URL: (https://earnest-taffy-e256dd.netlify.app/)
 
 ## My process

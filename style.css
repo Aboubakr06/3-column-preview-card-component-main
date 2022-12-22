@@ -147,7 +147,7 @@ body {
     background-color: var(--clr-primary-500);
 }
 
-h1 {
+h2 {
     font-size: 3rem;
     color: var(--clr-neutral-100);
     font-weight: var(--fw-bold);
