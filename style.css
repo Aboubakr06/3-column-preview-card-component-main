@@ -172,7 +172,6 @@ p {
     border-radius: 10rem;
     padding: 0.5em 1em;
     background-color: var(--clr-neutral-100);
-    font-family: var(--ff-base);
 }
 
 .button:hover {
